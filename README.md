@@ -7,4 +7,4 @@ demo site : https://kimjihun-dev.github.io/bexco/
 
 <br><br>
 
-<img src="https://github.com/kimjihun-dev/bexco/blob/master/bexco_re.jpg" width="960" height="983">
+<img src="https://github.com/kimjihun-dev/bexco/blob/master/bexco_re.jpg" width="640" height="983">
