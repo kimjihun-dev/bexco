@@ -1,4 +1,4 @@
-# bexco website renewa
+# bexco website renewal
 
 벡스코 홈페이지 리뉴얼 작업(개인 프로젝트)
 <br><br>
