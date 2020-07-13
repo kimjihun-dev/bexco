@@ -5,6 +5,7 @@
 
 #### 기간 : 2day
 #### 사용언어 : HTML5, CSS3, jQuery
+#### 사용툴 : Photoshop, Zeplin, vscode
 #### demo site : https://kimjihun-dev.github.io/bexco/
 <br><br>
 <img src="https://github.com/kimjihun-dev/bexco/blob/master/bexco_re.jpg">
