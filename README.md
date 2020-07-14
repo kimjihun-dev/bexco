@@ -8,4 +8,4 @@
 #### 사용툴 : Photoshop, Zeplin, vscode
 #### demo site : https://kimjihun-dev.github.io/bexco/
 <br><br>
-<img src="https://github.com/kimjihun-dev/bexco/blob/master/bexco_re.jpg">
+<img src="https://github.com/kimjihun-dev/bexco/blob/master/bexco_re.jpg" width="100%">
